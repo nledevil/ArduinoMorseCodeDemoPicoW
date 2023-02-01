@@ -8,7 +8,7 @@
 2. Arduino 1.X (For uploading files to LittleFS)
 3. A Raspberry Pi Pico W/WH
 4. Arduino-Pico Board/Libraries (https://arduino-pico.readthedocs.io/en/latest/)
-5. Pico LittleFS Upload Plugin for Arduino 1.X (https://github.com/earlephilhower/arduino-pico-littlefs-plugin/releases)
+5. Pico LittleFS Upload Plugin for Arduino 1.X (https://github.com/earlephilhower/arduino-pico-littlefs-plugin)
 6. ArduinoJson Library (https://arduinojson.org/)
 7. ArduinoWebSockets that supports Pico W (https://github.com/earlephilhower/arduinoWebSockets/tree/picow)
 8. Button/Switch/Key between GND and GPIO Pin 13 (https://www.amazon.com/dp/B01MT3T676)
