@@ -38,3 +38,7 @@
 - Once the sketch and files are uploaded, if you plug in the pico to power, you should see a CW DEMO access point.
 - Connect to this access point and go to the IP that it showed in the serial output
 - Start trying to use the key to send morse code.
+
+### Hardware Example:
+
+![](https://github.com/nledevil/ArduinoMorseCodeDemoPicoW/blob/master/hardwareImages/IMG_4847.JPG?raw=true)
